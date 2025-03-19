@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roua4409.netlify.app/sitemap.xml
